@@ -4,7 +4,7 @@ const cases: Array<[string, boolean]> = [
   ["Racecar", true],
   ["hello", false],
   ["A man, a plan, a canal: Panama", true],
-  ["12321", true],
+  ["14241", true],
   ["12345", false]
 ];
 
